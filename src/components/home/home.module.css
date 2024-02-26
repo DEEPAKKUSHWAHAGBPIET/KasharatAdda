@@ -64,7 +64,7 @@
   background-color: var(--three);
   color: var(--white);
   text-transform: uppercase;
-  text-align: right;
+  text-align: center;
   overflow: hidden;
   padding: 10px 0;
 }
@@ -72,8 +72,8 @@
 .panner h2 {
   white-space: nowrap;
   word-spacing: 50px;
-  animation: marque 10s linear infinite;
-  -webkit-animation: marque 10s linear infinite;
+  /* animation: marque 10s linear infinite;
+  -webkit-animation: marque 10s linear infinite; */
 }
 
 .panner span {
